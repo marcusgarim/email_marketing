@@ -1,4 +1,3 @@
-Projeto de E-mail Marketing para Lojas Pompéia e Gang - 
 Este é um projeto de E-mail Marketing desenvolvido para as Lojas Pompéia e Gang, visando melhorar a comunicação com os clientes e impulsionar as vendas por meio de campanhas de e-mail direcionadas e eficazes.
 
 Objetivo:
