@@ -16,9 +16,9 @@ Customização de conteúdo de e-mails com base nos interesses e preferências d
 4. Automação de Campanhas
 Implementação de automação de campanhas para envio de e-mails de boas-vindas, lembretes de carrinho abandonado, e-mails de aniversário, entre outros, visando aumentar o engajamento e as vendas.
 
-Tecnologias Utilizadas
-HTML/CSS para o desenvolvimento dos templates de e-mail.
-Ferramentas de automação de marketing, como Mailchimp ou HubSpot.
-Integração com sistemas de gestão de clientes (CRM) para coleta e análise de dados.
+Tecnologias Utilizadas:
+1. HTML/CSS para o desenvolvimento dos templates de e-mail.
+2. Ferramentas de automação de marketing, como Mailchimp ou HubSpot.
+3. Integração com sistemas de gestão de clientes (CRM) para coleta e análise de dados.
 
 Este é um modelo básico e você pode personalizá-lo conforme necessário para o seu projeto específico. Certifique-se de incluir informações relevantes sobre como instalar, configurar e executar o projeto, bem como quaisquer requisitos de sistema ou dependências.
