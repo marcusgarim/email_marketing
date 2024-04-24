@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>README - Projeto de E-mail Marketing para Lojas Pompéia e Gang</title>
+</head>
+<body>
     <h1>Projeto de E-mail Marketing para Lojas Pompéia e Gang</h1>
 
     <p>Este é um projeto de E-mail Marketing desenvolvido para as Lojas Pompéia e Gang, visando melhorar a comunicação com os clientes e impulsionar as vendas por meio de campanhas de e-mail direcionadas e eficazes.</p>
@@ -50,3 +58,5 @@
 
     <h2>Contato</h2>
     <p>Para mais informações sobre este projeto, entre em contato conosco em [seu e-mail ou site].</p>
+</body>
+</html>
